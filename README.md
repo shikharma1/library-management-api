@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Management API
 
 A RESTful API for managing a university library system built with Node.js, Express.js, and MongoDB.
@@ -268,3 +269,6 @@ ISC
 ## Support
 
 For issues and questions, please open an issue on GitHub.
+=======
+# library-management-api
+>>>>>>> 8f9ba1523cd67f9a3e81c7b2e615b02adab34c02
